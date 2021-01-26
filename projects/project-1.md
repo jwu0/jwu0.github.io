@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/caringmanoa.jpg
 title: Volunteering at Caring Manoa
-permalink: projects/micromouse
+permalink: projects/caring-manoa
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-12
 labels:
