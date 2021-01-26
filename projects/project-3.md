@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/inform.png
 title: Coding in Inform
-permalink: projects/cotton
+permalink: projects/inform
 # All dates must be YYYY-MM-DD format!
 date: 2017-02-27
 labels:
