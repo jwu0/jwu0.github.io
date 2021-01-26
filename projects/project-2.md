@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/bouncytruck.png
 title: Bouncy Truck
-permalink: projects/vacay
+permalink: projects/bouncytruck
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-09
 labels:
