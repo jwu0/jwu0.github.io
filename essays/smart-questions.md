@@ -37,6 +37,6 @@ labels:
  
 ## Conclusion
  
- The saying about thinking twice before speaking applies to asking questions as well. People don't want to read through lines and lines of code in order to answer a vague question when it could have been figured out by searching it up online. Instead, thinking about the question that you have and already trying solutions before asking it would be better. When you try solutions found online before asking, chances are, you will probably fix it. But in the event that doesn't work, ask a smart question and tell people what you have already tried. 
+ The saying about thinking twice before speaking applies to asking questions as well. People don't want to read through lines and lines of code in order to answer a vague question when it could have been figured out by searching it up online. Instead, thinking about the question that you have and already trying solutions before asking it would be better. When you try solutions found online before asking, chances are, you will probably fix it. But in the event that doesn't work, ask a smart question and tell people what you have already tried. That way, someone will take the time to read and understand your question in order to give you an answer.
  
  
