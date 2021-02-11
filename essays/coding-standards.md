@@ -18,6 +18,7 @@ Everyone has to abide by some coding standard whether or not they're coding for 
 This green checkmark indicates whether or not your code abides by ESLint's coding standards. It's a good feeling whenever you're finished coding and you see the green checkmark in the top right corner. Having code in a uniform and neat manner is cruicial to being able to read and understand it quickly. Also, having that near instantanous feedback on missing curly braces and variable usages is quite useful as I forget to put a semicolon or curly brace sometimes. 
 
 ## The One Annoyance
-<img class="ui image" src="../images/eslintmeme.png"> However, ESLint can be a little annoying at times. For example, as soon as you make a new function with no contents inside of it, it will give an error with red lines underneath indicating the error. Sometimes I think ESLint wants me to rush to finish the function so that there's no error there. Honestly though, ESLint has many positive aspects with it that overshine this small thing that I find annoying and it makes formatting code much easier.
+However, ESLint can be a little annoying at times. For example, as soon as you make a new function with no contents inside of it, it will give an error with red lines underneath indicating the error. Sometimes I think ESLint wants me to rush to finish the function so that there's no error there. Honestly though, ESLint has many positive aspects with it that overshine this small thing that I find annoying and it makes formatting code much easier.
 
+<img class="ui image" src="../images/eslintmeme.png"> 
 
