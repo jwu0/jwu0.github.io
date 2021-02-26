@@ -22,4 +22,4 @@ In order to make better looking websites, I used Semantic UI. It was a part of t
 ## So Why Bother?
 
 Using frameworks such as Semantic UI is very helpful in learning how to create and design a website. Semantic UI is easy to pick up and create a nice looking website. Even if it doesn't look nice in the beginning, playing around with the wording and different implementations that Semantic UI has will help make the website look nicer. With the small amount of time that I have put into experimenting and making things with Semantic UI, I have made a recreation of a website that I frequently use. It doesn't look exactly the same. The website I made very obviously looks like a bootleg version of it, but I'm still proud of what it looks like because of the little experience that I had with Semantic UI.
-<img class="ui medium floated image" src="../images/unknown.jpg">
+<img class="ui medium floated image" src="../images/unknown.png">
