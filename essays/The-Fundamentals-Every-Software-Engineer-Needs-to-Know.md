@@ -10,7 +10,7 @@ labels:
 ---
 
 ## Open Source Projects
-<img class="ui medium left circular floated image" src="../images/Githublogo.png"> 
+<img class="ui medium left floated image" src="../images/Githublogo.png"> 
 
 A lot of software developers and students know what GitHub is. Many students such as myself have used github to store their own code for their own projects. But when it comes making project with other people on GitHub, it's a different experience for many students. There are many ways to go about distributing the work amongst the team memebers such as assigning "issues" or requirements that need to be met to different people. However, the one problem with this is that everyone will have a different piece that might conflict or work with each other. So having good and efficient communication with your team members is crucial for getting any substantial work done. 
 
